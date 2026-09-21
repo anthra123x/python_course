@@ -1,1 +1,0 @@
- import thinker as tk 
